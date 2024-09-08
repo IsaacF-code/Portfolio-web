@@ -24,4 +24,4 @@ E também recomendo o uso da extensão:
 <br>
 <img src="readme/live-server.png">
 <br>
-Isso irá facilitar na hora do desenvolvimento.
+Serve para toda vez que salvar alguma alteração feita, a página irá atualizar automaticamente, isso irá facilitar na hora do desenvolvimento.
