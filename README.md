@@ -19,7 +19,7 @@
 
 O projeto está em sua forma base e que pode ser melhorada em futuras atualizações. Atualmente, precisa melhorar:
 
-- [ ] Erro dos links da Navbar não estar ativa em cada link, ao rolar a página e passar pelas seções
+- [ ] Erro dos links da Navbar não estar ativa em cada link, ao rolar a página e passar pelas seções.
 
 ### 🚀 Instalação e uso do Portfolio-web
 
